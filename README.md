@@ -15,8 +15,11 @@ This project explores the role of **price sensitivity and customer behavior** in
 ## 📂 Project Structure
 
 ├── DataExploration&Cleaning.ipynb
+
 ├── Feature-ChurnAnalysis.ipynb
+
 ├── RandomForest-PredictingChurn.ipynb
+
 └── README.md
 
 
